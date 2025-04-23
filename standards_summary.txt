@@ -1,0 +1,7 @@
+Version 2 Coding Standards Summary:
+- Naming: snake_case (Python), PascalCase (PowerShell), kebab-case (Ansible)
+- Feedback: Color-coded output (Green=Success, Yellow=Warning, Red=Error)
+- Logging: File-based (e.g., logs/script.log)
+- Modularity: Functions/roles
+- Idempotency: State checks
+Full document: https://raw.githubusercontent.com/Projectbits/code_std/main/Coding%20Standards.md
